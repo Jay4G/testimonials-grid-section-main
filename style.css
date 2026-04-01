@@ -6,7 +6,11 @@
 
 .container{
     /* background-color: red; */
-    margin: 20px
+    margin: 20px;
+    display: grid;
+    grid-template-columns:  1fr;
+    margin: 20px;
+    gap: 20px;
 }
 
 .cards{
@@ -15,7 +19,7 @@
     background-color: purple;
     border-radius: 10px;
     color: #fff;
-
+    box-shadow: 0 5px 10px  rgba(0, 0, 0, 0.3);
 }
 
 .cards .quotes{
