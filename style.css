@@ -17,6 +17,14 @@
     color: #fff;
 
 }
+
+.cards .quotes{
+    position: absolute;
+    right: 20px;
+    top: 0;
+    width: 90px;
+}
+
 .cards .image {
     display: flex;
     align-items: center;
