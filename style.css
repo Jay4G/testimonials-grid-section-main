@@ -21,6 +21,9 @@
     color: #fff;
     box-shadow: 0 5px 10px  rgba(0, 0, 0, 0.3);
 }
+.cards.violet{
+    background-color: hsl(263, 55%, 52%); 
+}
 
 .cards .quotes{
     position: absolute;
